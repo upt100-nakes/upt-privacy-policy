@@ -1,6 +1,6 @@
 #Privacy Policy for UPT (Upaya Peduli Tuberkulosis)
 
-**Last Updated:** March 27, 2024
+**Last Updated:** March 27, 2026
 
 UPT ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle your information within the UPT mobile application.
 
