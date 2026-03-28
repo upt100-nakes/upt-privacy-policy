@@ -7,7 +7,7 @@ UPT (Upaya Peduli Tuberkulosis) ("we," "our," or "us") is committed to protectin
 ### 1. Information Collection and Use
 UPT is designed as a **local-first** tool. We do not have a central server, and we do not collect your personal data remotely. The following information is stored **only on your device**:
 
-*   **Medication & Treatment Data:** Drug names, dosages, and times for TB treatment.
+*   **Medication Category & Treatment Data:** Information regarding the medication schedule for Adult or TPT categories and times for TB treatment.
 *   **Appointment Data:** Dates and times for healthcare facility visits (stored via `APPOINTMENT_DATE_TIME`).
 *   **User Preferences:** Technical settings such as alarm ringtones (`ALARM_SOUND_URI`), vibration status (`VIBRATE`), reminder intervals, and theme choices (stored via Android DataStore).
 
